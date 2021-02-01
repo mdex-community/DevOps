@@ -84,6 +84,12 @@ Jump to section:
 ---------------------------------------------------
 ## Articles
 
+**Docker**
+
+[Dockerize a node app](https://nodejs.org/en/docs/guides/nodejs-docker-webapp/)
+
+[Dockerize a react app](https://mherman.org/blog/dockerizing-a-react-app/)
+
 **Google Cloud Professional DevOps Engineering Exam**
 
 [Professional Cloud DevOps Engineer Info](https://cloud.google.com/certification/cloud-devops-engineer)
@@ -144,6 +150,10 @@ Jump to section:
 
 [How to use chmod command](https://www.howtogeek.com/437958/how-to-use-the-chmod-command-on-linux/)
 
+**Nginx**
+
+[How to install Nginx on ubuntu 18.04](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-18-04)
+
 **Concepts**
 
 [Artifact Repository](https://jfrog.com/knowledge-base/what-is-an-artifact-repository/)
@@ -151,6 +161,8 @@ Jump to section:
 [Ports and Sockets Explained](http://www.steves-internet-guide.com/tcpip-ports-sockets/)
 
 [OpenSSL cheatsheet](https://www.thesslstore.com/blog/openssl-commands-cheat-sheet/)
+
+[SSH](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows)
 
 ---------------------------------------------------
 ## Code
